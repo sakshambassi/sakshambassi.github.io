@@ -40,14 +40,14 @@ h2 {
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #004caa; }
+    color: #000000; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #004caa; }
+    color: #000000; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -110,6 +110,6 @@ section.resume-section {
   color: #000000 !important; }
 
 a {
-  color: #004caa; }
+  color: #000000; }
   a:hover, a:focus, a:active {
     color: #824027; }
